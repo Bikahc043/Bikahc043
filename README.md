@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikahc043&label=Profile%20views&color=0e75b6&style=flat" alt="bikahc043" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React **
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **frontend development**
 
 - 📫 How to reach me **bikashc043@gmail.com**
 
