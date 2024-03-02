@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bikash Chetia</h1>
+ <h1 align="center">Hi 👋, I'm Bikash Chetia</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikahc043&label=Profile%20views&color=0e75b6&style=flat" alt="bikahc043" /> </p>
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **frontend development**
 
-- 📫 How to reach me **bikashc043@gmail.com**
+- 📫 How to reach me **bikashc0025@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/bikash-chetia-a888b52a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](https://www.linkedin.com/in/bikash-chetia-a888b52a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
