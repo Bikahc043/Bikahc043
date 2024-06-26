@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **frontend development**
+- 💬 Ask me about **development**
 
 - 📫 How to reach me **bikashc0025@gmail.com**
 
